@@ -1,0 +1,13 @@
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.exe
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.deps.json
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.runtimeconfig.json
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.runtimeconfig.dev.json
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.dll
+C:\Users\Hugues\source\repos\jeu2\jeu2\bin\Debug\netcoreapp3.1\jeu2.pdb
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.csprojAssemblyReference.cache
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.AssemblyInfoInputs.cache
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.AssemblyInfo.cs
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.csproj.CoreCompileInputs.cache
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.dll
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.pdb
+C:\Users\Hugues\source\repos\jeu2\jeu2\obj\Debug\netcoreapp3.1\jeu2.genruntimeconfig.cache
